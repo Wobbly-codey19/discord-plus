@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://j.gifs.com/YvYm20.gif);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-ui: 'Comic Sans MS';
+  --dplus-font-body: 'Comic Sans MS';
+  --dplus-font-header: 'Comic Sans MS';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
