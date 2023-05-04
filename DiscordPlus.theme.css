@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://j.gifs.com/YvYm20.gif);
+  --dplus-backdrop: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fclose-to-you-undertale-animation-YvYm20&psig=AOvVaw3TQKr0IlZpBHiFqjQSeIw6&ust=1683319828265000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjIp83F3P4CFQAAAAAdAAAAABAE);
   
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://j.gifs.com/YvYm20.gif);
+  --dplus-backdrop: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fclose-to-you-undertale-animation-YvYm20&psig=AOvVaw3TQKr0IlZpBHiFqjQSeIw6&ust=1683319828265000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjIp83F3P4CFQAAAAAdAAAAABAE);
   
   --dplus-accent-color-hue: 207;
   --dplus-accent-color-saturation: 60%;
@@ -72,7 +72,7 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 50%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 10px;
+  --dplus-spacing-ui: 5px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
    --dplus-spacing-app: 10px;
