@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fclose-to-you-undertale-animation-YvYm20&psig=AOvVaw3TQKr0IlZpBHiFqjQSeIw6&ust=1683319828265000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjIp83F3P4CFQAAAAAdAAAAABAE);
+  --dplus-backdrop: url(https://static.wikia.nocookie.net/gimkit/images/c/c1/JoshGimkit.png/revision/latest?cb=20230401071638);
   
   --dplus-accent-color-hue: 207;
   --dplus-accent-color-saturation: 60%;
