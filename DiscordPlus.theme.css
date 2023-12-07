@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fclose-to-you-undertale-animation-YvYm20&psig=AOvVaw3TQKr0IlZpBHiFqjQSeIw6&ust=1683319828265000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjIp83F3P4CFQAAAAAdAAAAABAE);
+  --dplus-backdrop: URL(https://i.ibb.co/M28xKqL/IMG-0799.webp);
   
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -78,14 +78,14 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 64px;
+--dplus-icon-avatar-chat: 32px;
 --dplus-icon-avatar-list: 32px;
---dplus-icon-avatar-profile: 80px;
+--dplus-icon-avatar-profile: 60px;
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-dark: url(https://i.ibb.co/M28xKqL/IMG-0799.webp);
+--dplus-icon-home-light: url(https://i.ibb.co/M28xKqL/IMG-0799.webp);
 }
